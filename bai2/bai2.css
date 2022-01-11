@@ -1,0 +1,27 @@
+body{
+    font-size:18px;
+}
+.input__content{
+    display:block;
+    margin:18px 25px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+input{    
+    font-size:18px;
+}
+.btn{
+    font-size:16px;
+    font-weight: bold;
+    margin-left: 30px;
+    padding:12px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 50px;
+}
+h2{
+    text-transform: uppercase;
+    margin-bottom:50px;
+}
